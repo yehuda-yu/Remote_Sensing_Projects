@@ -22,7 +22,7 @@ This repository contains a collection of Python notebooks for remote sensing app
 - `read_netcdf_image_as_data_cube.ipynb`: Tools for handling NetCDF files as data cubes
 
 ## Dependencies
-- Python 3.x
+- Python
 - Google Earth Engine Python API
 - Jupyter Notebook
 - Common scientific Python libraries:
